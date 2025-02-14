@@ -1,7 +1,9 @@
 #Landing Page #01
+
 Focada em clientes que estão em dúvida se devem confiar ou não em seu serviço ou produto.
 
-![Sem título2](https://github.com/user-attachments/assets/8c169bb8-f970-4540-9139-5d7c1550a17d)
+![Exemplo](https://github.com/user-attachments/assets/236c9e2b-d21f-4634-9b20-951cf42739d7)
+
 
 
 | Linguagens Usadas | Biblioteca |
