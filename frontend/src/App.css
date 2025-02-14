@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #ccd7ff;
+}
+.planosACompra{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 1rem;
+  flex-wrap: wrap;
+}

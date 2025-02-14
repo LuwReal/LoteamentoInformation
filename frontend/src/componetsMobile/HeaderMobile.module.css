@@ -1,0 +1,14 @@
+.container{
+    display: block;
+    position: relative;
+    z-index: 2;
+}
+
+
+
+@media (min-width: 660px) {
+    .container{
+        display: none !important;
+    }
+    
+}
