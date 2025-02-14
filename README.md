@@ -5,9 +5,13 @@ Focada em clientes que estão em dúvida se devem confiar ou não em seu serviç
 
 
 | Linguagens Usadas | Biblioteca |
+| -------- | -------- |
 | JavaScript | React |
+| -------- | -------- |
 | JSX |
+| -------- | -------- |
 | HTML 5 |
+| -------- | -------- |
 | CSS |
 
 Destaque:
